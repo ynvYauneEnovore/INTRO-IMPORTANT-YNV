@@ -1,0 +1,31 @@
+PARA LA SUVIDA A DOCKER HUB
+
+PS C:\Users\YNV> docker login -u ynvenovore
+Password:**************************************
+
+$ docker tag bitnami/mariadb:10.6 ynvenovore/maria:v1
+
+$ docker push ynvenovore/maria:v1
+
+
+
+PARA LA SUBIDA A GIT
+
+$ export CR_PAT=**********************************
+
+$ echo $CR_PAT | docker login ghcr.io -u ynvYauneEnovore --password-stdin
+
+$ docker tag ynvenovore/laraveldocker:v1 ghcr.io/ynvyauneenovore/laraveldocker:v1
+
+$ docker push ghcr.io/ynvyauneenovore/laraveldocker:v1
+
+REPOSITORY                         TAG       IMAGE ID       CREATED       SIZE
+bitnami/laravel                    latest    ccf6cce73159   3 days ago    637MB
+laraveldocker                      latest    ccf6cce73159   3 days ago    637MB
+ynvenovore/laraveldocker           tagname   ccf6cce73159   3 days ago    637MB
+ynvenovore/laraveldocker           v1        ccf6cce73159   3 days ago    637MB
+ghcr.io/ynvenovore/laraveldocker   latest    ccf6cce73159   3 days ago    637MB
+ghcr.io/ynvenovore/laraveldocker   tagname   ccf6cce73159   3 days ago    637MB
+bitnami/mariadb                    10.6      ee6faf00db21   9 days ago    338MB
+bitnami/laravel                    10        e347ceb379b2   11 days ago   637MB
+nginx                              latest    904b8cb13b93   3 weeks ago   142MB
