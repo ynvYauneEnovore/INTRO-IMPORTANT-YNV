@@ -29,3 +29,7 @@ ghcr.io/ynvenovore/laraveldocker   tagname   ccf6cce73159   3 days ago    637MB
 bitnami/mariadb                    10.6      ee6faf00db21   9 days ago    338MB
 bitnami/laravel                    10        e347ceb379b2   11 days ago   637MB
 nginx                              latest    904b8cb13b93   3 weeks ago   142MB
+
+
+
+ export CR_PAT=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
