@@ -1,19 +1,18 @@
 <h1>Comandos de Docker</h1>
 
-<p>Este repositorio contiene una colección de comandos útiles y ejemplos para trabajar con Docker. El objetivo principal es proporcionar una referencia práctica y guías para desarrolladores y administradores de sistemas que deseen utilizar Docker en sus proyectos.</p>
+<p>Este repositorio contiene una colección de comandos útiles para trabajar con Docker. El objetivo principal es proporcionar una referencia práctica y guías para desarrolladores y administradores de sistemas que deseen utilizar Docker en sus proyectos.</p>
 
 <h2>Estructura del repositorio</h2>
 
 <ul>
-  <li><code>/comandos</code>: Directorio que contiene archivos con ejemplos de comandos de Docker y su descripción.</li>
-  <li><code>/ejemplos</code>: Directorio con ejemplos de uso de Docker en diferentes casos de uso.</li>
+  <li><code>/production</code>: Directorio que contiene archivos con ejemplos de comandos de Docker y su descripción.</li>
 </ul>
 
 <h2>Uso del repositorio</h2>
 
-<pre><code>git clone https://github.com/tu-usuario/comandos-docker.git</code></pre>
+<pre><code>git clone https://github.com/ynvYauneEnovore/production-docker-laravel.git</code></pre>
 
-<p>Explora los diferentes directorios para encontrar los comandos y ejemplos que necesitas.</p>
+<p>Explora los diferentes directorios para encontrar los comandos que necesitas.</p>
 
 <p>Dentro de cada archivo, encontrarás una descripción detallada del comando y su uso correspondiente.</p>
 
