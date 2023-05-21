@@ -1,5 +1,5 @@
 <h1>Comandos de Docker</h1>
-
+<h2> <span>Desarrollador: Yovan R. Yaune Enovore</span></h2>
 <p>Este repositorio contiene una colección de comandos útiles para trabajar con Docker. El objetivo principal es proporcionar una referencia práctica y guías para desarrolladores y administradores de sistemas que deseen utilizar Docker en sus proyectos.</p>
 
 <h2>Estructura del repositorio</h2>
@@ -67,3 +67,4 @@ docker-compose -f /ruta-al-proyecto/docker-compose.yml up -d</code></pre>
 <h2>Contacto</h2>
 
 <p>Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a <a href="mailto:yovanuxf@gmail.com">yovanuxf@gmail.com</a>.</p>
+![Logo](https://github.com/ynvYauneEnovore/personal-port/blob/main/public/img/ynv.png)
