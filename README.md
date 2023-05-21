@@ -68,4 +68,4 @@ docker-compose -f /ruta-al-proyecto/docker-compose.yml up -d</code></pre>
 
 <p>Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a <a href="mailto:yovanuxf@gmail.com">yovanuxf@gmail.com</a>.</p>
 
-[Logo](https://github.com/ynvYauneEnovore/personal-port/blob/main/public/img/ynv.png)
+![Logo](https://github.com/ynvYauneEnovore/personal-port/blob/main/public/img/ynv.png)
