@@ -62,8 +62,8 @@ docker-compose -f /ruta-al-proyecto/docker-compose.yml up -d</code></pre>
 
 <h2>Licencia</h2>
 
-<p>Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo <a href="LICENSE">LICENSE</a> para obtener más detalles.</p>
+<p>Este proyecto se encuentra bajo la Licencia MIT.
 
 <h2>Contacto</h2>
 
-<p>Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a <a href="mailto:tu@correo.com">tu@correo.com</a>.</p>
+<p>Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a <a href="mailto:yovanuxf@gmail.com">yovanuxf@gmail.com</a>.</p>
