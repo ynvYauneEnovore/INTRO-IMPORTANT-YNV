@@ -32,4 +32,4 @@ nginx                              latest    904b8cb13b93   3 weeks ago   142MB
 
 
 
- export CR_PAT=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
+ export CR_PAT=***********************************
